@@ -1,0 +1,7 @@
+variant,R2_Test,n_features,chosen
+drp_compact_plus_20a_bare,0.0757921561378361,21,False
+drp_compact_plus_20a_bare_partial_p,0.08313259524136185,22,True
+drp_compact_plus_20a_bare_month_add,0.06830837634559295,22,False
+drp_compact_plus_20a_bare_month,0.06848815589267869,20,False
+drp_compact_plus_20a_bare_shrub,0.0757921561378361,21,False
+drp_compact_plus_20a_bare_water,0.0757921561378361,21,False

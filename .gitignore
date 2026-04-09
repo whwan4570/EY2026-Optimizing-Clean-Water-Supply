@@ -1,0 +1,18 @@
+.conda/
+__pycache__/
+catboost_info/
+HydroRIVERS_v10_af.gdb/
+*.log
+*.tmp
+.DS_Store
+
+# Python cache/build artifacts
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local environment files
+.env
+.venv/
+venv/
