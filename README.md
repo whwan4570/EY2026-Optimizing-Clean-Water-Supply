@@ -74,6 +74,6 @@ This project demonstrates:
 ## 👤 Author
 
 **Wonjoon Hwang**  
-**Daehyun Lee**
-**Doyoung Jung**
+**Daehyun Lee**  
+**Doyoung Jung**  
 M.S. in Data Science, University of Washington
